@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708716504 source:c:\users\bertug\desktop\bankamatik\bankamatik\main.c
+	<stdio.h>
+	<stdlib.h>
+
